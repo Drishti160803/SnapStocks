@@ -76,4 +76,4 @@ Passwords are never stored in plain text. We utilize **Bcrypt** with a salt fact
 Distributed under the MIT License.
 
 ---
-**Developed by [Your Name]**
+**Developed by [Drishti]**
