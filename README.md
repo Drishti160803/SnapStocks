@@ -72,8 +72,5 @@ The platform ensures data integrity by performing balance checks on the **server
 ### Security
 Passwords are never stored in plain text. We utilize **Bcrypt** with a salt factor of 10 to ensure that user credentials remain secure even in the event of a database breach.
 
-## 📄 License
-Distributed under the MIT License.
-
 ---
 **Developed by [Drishti]**
